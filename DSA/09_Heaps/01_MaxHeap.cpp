@@ -39,7 +39,7 @@ public:
         }cout << endl;
     }
 
-    void deleteFromHeap(){
+    void deleteFromHeap(){ //Time complexity: O(log N)
         if(size == 0){
             return;
         }
