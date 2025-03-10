@@ -11,7 +11,7 @@ void preprocessFrequency(const string& str, unordered_map<char, int>& freq){
 }
 
 int main(){
-    string str = "abacabde"; // Given string "abacabde"
+    string str = "abacabde"; // Given string 
     int q;
     cout << "Enter number of queries: ";
     cin >> q;
